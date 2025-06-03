@@ -31,13 +31,13 @@ header {
   display: block;
   grid-column: 1 / span 3;
   grid-row: 2;
-  align-text: center;
+  text-align: center;
 }
 
 .pagination {
   display: inline-block;
 padding: 2px 20px;
-  align-text: center;
+  text-align: center;
 }
 
 
